@@ -28,3 +28,18 @@ npm install
 
 # 4. Start development server
 npm run dev
+
+---
+
+## 📎 Project Report
+
+You can view or download the full project report (PDF) [here](./Hello_World_React_Project_Report.pdf)
+
+## 🖼️ Screenshot
+
+![screenshot](./screenshot.png)
+
+✨ Author
+
+IBRAHIM M MUHAMMAD
+GitHub: MUHAMMADUIM01
